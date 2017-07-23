@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ARGuied
 //
-//  Created by Sasha Minikin on 7/16/17.
+//  Created by Sasha Prokhorenko on 7/16/17.
 //  Copyright © 2017 YOOP. All rights reserved.
 //
 
